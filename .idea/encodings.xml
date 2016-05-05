@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/mypackage/GetBackInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/GetBackInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/GetCodeList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/GetCodeListResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/GetInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/GetInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/GetReleaseID.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/GetReleaseIDResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/GetYQSHInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/GetYQSHInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendApplyDeptBack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendApplyDeptBackResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendCancelInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendDispatchInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendDispatchInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendEndInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendEndInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendInputInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendInputInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendOrderInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendOrderInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendPerCreateInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendPerCreateInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendSolvingInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendSolvingInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendSolvingPostPoneMent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendSolvingPostPoneMentResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendSuperviseInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/SendSuperviseInfoResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/TestResponse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/WebServiceHttpGet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/WebServiceHttpPost.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/WebServiceSoap.java" charset="GBK" />
+  </component>
+</project>
